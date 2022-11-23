@@ -6,8 +6,8 @@ function App() {
     <div>Preeya subba
     <h1>The abbr element</h1>
 
-<p>The <abbr title="World Health Organization">WHO</abbr> was founded in 1948.</p>
-  </div>
+    <p>The <abbr title="World Health Organization">WHO</abbr> was founded in 1948.</p>
+    </div>
   );
 }
 
